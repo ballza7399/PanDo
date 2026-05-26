@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PanDo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c340352ba5ac55ad61408db1ebbfd21c90e991d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f8c9ec459c8269d4573498a4a8beee20f535148")]
 [assembly: System.Reflection.AssemblyProductAttribute("PanDo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PanDo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
