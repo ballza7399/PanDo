@@ -8,7 +8,7 @@ namespace PanDo.Controllers
     {
         private static readonly string[] Summaries =
         [
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","PanDo"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","PanDo","John","Doe","Jane","Smith"
         ];
 
         [HttpGet(Name = "GetWeatherForecast")]
